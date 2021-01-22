@@ -6,7 +6,7 @@ public class silah_alma : MonoBehaviour
 {
     public Transform Player;
     public GameObject Silah;
-    public GameObject pistol;
+    public GameObject Smg;
     public GameObject flash;
     public bool mesafe;
     
@@ -26,7 +26,7 @@ public class silah_alma : MonoBehaviour
             Silah.SetActive(true);
             mesafe = false;
             Destroy(gameObject);
-            pistol.SetActive(false);
+            Smg.SetActive(false);
             flash.SetActive(false);
         }
          
