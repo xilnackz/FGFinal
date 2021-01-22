@@ -203,6 +203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_renkli_barrel_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d1d9781cc0acab749877e10167f56e55,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d1d9781cc0acab749877e10167f56e55, type: 3}
 --- !u!4 &22893793 stripped
@@ -390,6 +395,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: airconditioner
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a90bd1233c1b24247a2fbe3f4f3c19a6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a90bd1233c1b24247a2fbe3f4f3c19a6, type: 3}
 --- !u!4 &105672971 stripped
@@ -484,6 +494,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ortulu_kutu
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 046f5d60457d9e04a8c4b40e4160e9e4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 046f5d60457d9e04a8c4b40e4160e9e4, type: 3}
@@ -595,6 +610,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!1 &124323142 stripped
@@ -704,6 +724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -815,6 +840,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bidon_mavi (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
 --- !u!4 &142114809 stripped
@@ -924,6 +954,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -1046,6 +1081,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavi_barell (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
 --- !u!4 &170634660 stripped
@@ -1155,6 +1195,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -1266,6 +1311,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &252589473 stripped
@@ -1375,6 +1425,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -1486,6 +1541,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: raf2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c295fca57d2092844b92a504401b3a6a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c295fca57d2092844b92a504401b3a6a, type: 3}
 --- !u!4 &256745480 stripped
@@ -1595,6 +1655,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: yeni masa
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 209f62b29270e48438b2ce04beaa9a15,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 209f62b29270e48438b2ce04beaa9a15, type: 3}
@@ -1706,6 +1771,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (3)"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &286479161 stripped
@@ -1815,6 +1885,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -1926,6 +2001,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: elektrikkutusu1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0a18fe1a4ceb1054b83011e93a56d76a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a18fe1a4ceb1054b83011e93a56d76a, type: 3}
 --- !u!4 &305498193 stripped
@@ -2015,6 +2095,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -2200,6 +2285,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!4 &371767533 stripped
@@ -2309,6 +2399,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -2420,6 +2515,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!4 &399803082 stripped
@@ -2524,6 +2624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ortulu_kutu
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 046f5d60457d9e04a8c4b40e4160e9e4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 046f5d60457d9e04a8c4b40e4160e9e4, type: 3}
@@ -2635,6 +2740,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bidon_mavi (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
 --- !u!4 &409614601 stripped
@@ -2745,6 +2855,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bidon_mavi
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
 --- !u!1001 &425982663
@@ -2813,6 +2928,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -2924,6 +3044,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kahvekutu (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
 --- !u!4 &440509593 stripped
@@ -3034,6 +3159,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: airventilation
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aea952100e69e1a41b812845888f5294,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aea952100e69e1a41b812845888f5294, type: 3}
 --- !u!4 &487913273 stripped
@@ -3123,6 +3253,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -3234,6 +3369,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!4 &505805711 stripped
@@ -3343,6 +3483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -3465,6 +3610,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavi_barell
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
 --- !u!4 &543632947 stripped
@@ -3567,6 +3717,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kasa_mavi
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 360351c59846c8c4d923f75eaa2a6dfc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 360351c59846c8c4d923f75eaa2a6dfc, type: 3}
 --- !u!4 &556516907 stripped
@@ -3657,6 +3812,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kirmizi_barell (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
 --- !u!4 &560285378 stripped
@@ -3695,6 +3855,10 @@ PrefabInstance:
     - target: {fileID: 1743903104223250, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_Name
       value: FirstPerson-AIO
+      objectReference: {fileID: 0}
+    - target: {fileID: 4288335847994348, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.202
       objectReference: {fileID: 0}
     - target: {fileID: 4448068258976056, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_RootOrder
@@ -3787,6 +3951,16 @@ PrefabInstance:
         type: 3}
       propertyPath: advanced.maxSlopeAngle
       value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 114051214696948948, guid: 2e62f5703e5f8d2488a5e1bc8433be41,
+        type: 3}
+      propertyPath: advanced.maxStepHeight
+      value: 0.512
+      objectReference: {fileID: 0}
+    - target: {fileID: 114051214696948948, guid: 2e62f5703e5f8d2488a5e1bc8433be41,
+        type: 3}
+      propertyPath: advanced.gravityMultiplier
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 114051214696948948, guid: 2e62f5703e5f8d2488a5e1bc8433be41,
         type: 3}
@@ -3891,6 +4065,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -4002,6 +4181,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: merdiven
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f417c866b2bbc9146babfe0f62f257c9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f417c866b2bbc9146babfe0f62f257c9, type: 3}
 --- !u!1001 &620861441
@@ -4085,6 +4269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -4196,6 +4385,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (2)"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &622493100 stripped
@@ -4305,6 +4499,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mavikasa
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
@@ -4416,6 +4615,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &670724022 stripped
@@ -4525,6 +4729,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kahvekutu (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
@@ -4636,6 +4845,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &708721417 stripped
@@ -4746,6 +4960,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: goturgec
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d86dec2d02ece34d8e0cda96332628f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d86dec2d02ece34d8e0cda96332628f, type: 3}
 --- !u!1001 &737611052
@@ -4829,6 +5048,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: coklu_barrel (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
@@ -4940,6 +5164,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (2)"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &757190245 stripped
@@ -5049,6 +5278,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "altl\u0131k"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7093cfbb34d69fd41a680e9ec88bdb72,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7093cfbb34d69fd41a680e9ec88bdb72, type: 3}
@@ -5165,6 +5399,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -5287,6 +5526,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -5490,6 +5734,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &827131885 stripped
@@ -5600,6 +5849,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!4 &843504568 stripped
@@ -5637,7 +5891,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 850751417}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: LevelObjects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5844,6 +6098,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!4 &857666287 stripped
@@ -5938,6 +6197,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (3)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -6049,6 +6313,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kirmizi_barell
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
 --- !u!4 &882590157 stripped
@@ -6158,6 +6427,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: sandalye
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a0740d038833284d99a8fc00d8cc5cb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a0740d038833284d99a8fc00d8cc5cb, type: 3}
@@ -6311,6 +6585,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: elektrikkutusu1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0a18fe1a4ceb1054b83011e93a56d76a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a18fe1a4ceb1054b83011e93a56d76a, type: 3}
 --- !u!4 &937965286 stripped
@@ -6420,6 +6699,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: raf2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c295fca57d2092844b92a504401b3a6a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c295fca57d2092844b92a504401b3a6a, type: 3}
@@ -6531,6 +6815,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: raf2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c295fca57d2092844b92a504401b3a6a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c295fca57d2092844b92a504401b3a6a, type: 3}
 --- !u!4 &972105879 stripped
@@ -6625,6 +6914,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: elektrikkutusu1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0a18fe1a4ceb1054b83011e93a56d76a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a18fe1a4ceb1054b83011e93a56d76a, type: 3}
@@ -6736,6 +7030,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kafalik
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 369e5cb815afa38498cc62f2d6087c49,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 369e5cb815afa38498cc62f2d6087c49, type: 3}
 --- !u!4 &1003568284 stripped
@@ -6845,6 +7144,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: coklu_barrel
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
@@ -6956,6 +7260,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: final_level
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1f19f66b5400b88469a0f9a7ef29c747,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f19f66b5400b88469a0f9a7ef29c747, type: 3}
 --- !u!1001 &1087969178
@@ -7039,6 +7348,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -7150,6 +7464,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavikasa (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
 --- !u!4 &1093169689 stripped
@@ -7259,6 +7578,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -7396,6 +7720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kirmizi_barell (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
 --- !u!4 &1158580384 stripped
@@ -7505,6 +7834,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -7616,6 +7950,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kafalik
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 369e5cb815afa38498cc62f2d6087c49,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 369e5cb815afa38498cc62f2d6087c49, type: 3}
 --- !u!4 &1192341040 stripped
@@ -7726,6 +8065,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavikasa (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
 --- !u!4 &1204614400 stripped
@@ -7820,6 +8164,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -7931,6 +8280,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavikasa
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
 --- !u!4 &1219862251 stripped
@@ -8040,6 +8394,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: coklu_renkli_barrel_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d1d9781cc0acab749877e10167f56e55,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d1d9781cc0acab749877e10167f56e55, type: 3}
@@ -8177,6 +8536,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavi_barell
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
 --- !u!4 &1250641772 stripped
@@ -8286,6 +8650,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -8397,6 +8766,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (3)"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &1261941127 stripped
@@ -8506,6 +8880,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "sar\u0131demirli_kutubarrel"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a688cbe2f270d0469975e418316c31f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a688cbe2f270d0469975e418316c31f, type: 3}
@@ -8617,6 +8996,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: mavikasa
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
 --- !u!4 &1320588531 stripped
@@ -8711,6 +9095,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (2)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -8822,6 +9211,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &1360843296 stripped
@@ -8912,6 +9306,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: raf
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99809156cc5d84941a8200dd95746f79,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99809156cc5d84941a8200dd95746f79, type: 3}
 --- !u!1 &1389958358
@@ -8923,7 +9322,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1389958359}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: kasa_tup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9042,6 +9441,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kahvekutu
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
 --- !u!1001 &1419349909
@@ -9125,6 +9529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kahvekutu
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
@@ -9236,6 +9645,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "sar\u0131demirli_kutubarrel"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a688cbe2f270d0469975e418316c31f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a688cbe2f270d0469975e418316c31f, type: 3}
 --- !u!4 &1437811538 stripped
@@ -9345,6 +9759,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -9456,6 +9875,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "altl\u0131k"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7093cfbb34d69fd41a680e9ec88bdb72,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7093cfbb34d69fd41a680e9ec88bdb72, type: 3}
 --- !u!4 &1485281707 stripped
@@ -9516,6 +9940,18 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 570119236}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1491496672 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114051214696948948, guid: 2e62f5703e5f8d2488a5e1bc8433be41,
+    type: 3}
+  m_PrefabInstance: {fileID: 570119236}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1491496671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1a5ad4f9ffb154ca7813fdad11017a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1491496676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9528,6 +9964,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21c8b8ced96d1904a852eacbfeb8b88a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentAmount: 0
+  maxAmount: 2
+  pMovement: {fileID: 1491496672}
+  pgt: {fileID: 2011256232}
 --- !u!1001 &1510404185
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9604,6 +10044,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: elektrikkutusu1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0a18fe1a4ceb1054b83011e93a56d76a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a18fe1a4ceb1054b83011e93a56d76a, type: 3}
@@ -9699,6 +10144,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -9810,6 +10260,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!4 &1557008631 stripped
@@ -9919,6 +10374,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kafalik
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 369e5cb815afa38498cc62f2d6087c49,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 369e5cb815afa38498cc62f2d6087c49, type: 3}
@@ -10030,6 +10490,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: goturgec
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d86dec2d02ece34d8e0cda96332628f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d86dec2d02ece34d8e0cda96332628f, type: 3}
 --- !u!4 &1578346437 stripped
@@ -10139,6 +10604,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -10250,6 +10720,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kahvekutu
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
 --- !u!4 &1627451925 stripped
@@ -10360,6 +10835,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!4 &1631079727 stripped
@@ -10469,6 +10949,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kirmizi_barell (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
@@ -10606,6 +11091,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &1698036871 stripped
@@ -10716,6 +11206,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!1001 &1709103638
@@ -10799,6 +11294,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -10910,6 +11410,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: tup (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
 --- !u!4 &1770169689 stripped
@@ -11019,6 +11524,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: coklu_barrel
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
@@ -11130,6 +11640,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kahvekutu (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01372ecbae8d5e548b18baf3592543d6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01372ecbae8d5e548b18baf3592543d6, type: 3}
 --- !u!4 &1815969723 stripped
@@ -11239,6 +11754,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ortulu_kutu
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 046f5d60457d9e04a8c4b40e4160e9e4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 046f5d60457d9e04a8c4b40e4160e9e4, type: 3}
@@ -11350,6 +11870,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "altl\u0131k"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7093cfbb34d69fd41a680e9ec88bdb72,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7093cfbb34d69fd41a680e9ec88bdb72, type: 3}
 --- !u!1001 &1831402626
@@ -11433,6 +11958,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -11544,6 +12074,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: airconditioner
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a90bd1233c1b24247a2fbe3f4f3c19a6,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a90bd1233c1b24247a2fbe3f4f3c19a6, type: 3}
 --- !u!4 &1841511098 stripped
@@ -11653,6 +12188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mavi_barell (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
@@ -11764,6 +12304,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ortulu_kutu
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 046f5d60457d9e04a8c4b40e4160e9e4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 046f5d60457d9e04a8c4b40e4160e9e4, type: 3}
 --- !u!4 &1878830428 stripped
@@ -11853,6 +12398,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -11964,6 +12514,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!4 &1891703281 stripped
@@ -12074,6 +12629,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: goturgec (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2d86dec2d02ece34d8e0cda96332628f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d86dec2d02ece34d8e0cda96332628f, type: 3}
 --- !u!4 &1927057556 stripped
@@ -12111,7 +12671,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1931735104}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: hortumlar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12221,6 +12781,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &1942238063 stripped
@@ -12295,6 +12860,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -12406,6 +12976,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &1955484495 stripped
@@ -12496,6 +13071,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: raf (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99809156cc5d84941a8200dd95746f79,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99809156cc5d84941a8200dd95746f79, type: 3}
 --- !u!1001 &1994754865
@@ -12579,6 +13159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mavikasa (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6328e6d7d343ea44e9b014f4b248e7af,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6328e6d7d343ea44e9b014f4b248e7af, type: 3}
@@ -12690,6 +13275,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: raf2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c295fca57d2092844b92a504401b3a6a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c295fca57d2092844b92a504401b3a6a, type: 3}
 --- !u!4 &1996282949 stripped
@@ -12784,6 +13374,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -12894,6 +13489,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: tup (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 64fafe4835d1877409aac5a3176ef406,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64fafe4835d1877409aac5a3176ef406, type: 3}
@@ -13067,6 +13667,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coklu_barrel (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 45842bf84b07f2f4cb33731860ec8d89,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45842bf84b07f2f4cb33731860ec8d89, type: 3}
 --- !u!4 &2036248191 stripped
@@ -13176,6 +13781,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mavi_barell
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
@@ -13312,6 +13922,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: coklu_renkli_barrel_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d1d9781cc0acab749877e10167f56e55,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d1d9781cc0acab749877e10167f56e55, type: 3}
@@ -13561,6 +14176,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (4)"
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
 --- !u!4 &2086183164 stripped
@@ -13670,6 +14290,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: hortum
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
@@ -13781,6 +14406,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: hortum (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6c247962b9beac9479c09386af49abdb,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c247962b9beac9479c09386af49abdb, type: 3}
 --- !u!4 &2112953385 stripped
@@ -13890,6 +14520,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: mavi_barell (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 99913cc73b95c554e8c18af4b9c01b1d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99913cc73b95c554e8c18af4b9c01b1d, type: 3}
@@ -14001,6 +14636,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bidon_mavi (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
 --- !u!4 &2125914605 stripped
@@ -14110,6 +14750,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "k\u0131rm\u0131z\u0131kasa (5)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a03c501d47f5834e807675d6050cd10,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a03c501d47f5834e807675d6050cd10, type: 3}
@@ -14221,6 +14866,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: kirmizi_barell (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b5c044e22f19d1140915523cf910eb20,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5c044e22f19d1140915523cf910eb20, type: 3}
 --- !u!4 &2135662255 stripped
@@ -14331,6 +14981,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bidon_mavi
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
 --- !u!4 &2137639292 stripped
@@ -14440,6 +15095,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bidon_mavi (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c16e6fb2212136a4cbcff03c6cc7d31a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c16e6fb2212136a4cbcff03c6cc7d31a, type: 3}
