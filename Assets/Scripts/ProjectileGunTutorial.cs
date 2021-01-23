@@ -15,6 +15,7 @@ using Random = UnityEngine.Random;
 public class ProjectileGunTutorial : MonoBehaviour
 {
     //bullet 
+    public float damage = 10;
     public GameObject bullet;
 
     public AudioSource shootinSound;
@@ -106,9 +107,16 @@ public class ProjectileGunTutorial : MonoBehaviour
             targetPoint = hit.point;
         else
             targetPoint = ray.GetPoint(75); //Just a point far away from the player
+        
 
         //Calculate direction from attackPoint to targetPoint
         Vector3 directionWithoutSpread = targetPoint - attackPoint.position;
+        
+        Target target = hit.transform.GetComponent<Target>();
+        if (target != null)
+        {
+            target.TakeDamage(damage);
+        }
 
         //Calculate spread
         float x = Random.Range(-spread, spread);
