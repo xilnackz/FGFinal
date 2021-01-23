@@ -1,6 +1,8 @@
 ﻿
+using System;
 using UnityEngine;
 using TMPro;
+using Random = UnityEngine.Random;
 
 /// Thanks for downloading my projectile gun script! :D
 /// Feel free to use it in any project you like!
@@ -15,6 +17,11 @@ public class ProjectileGunTutorial : MonoBehaviour
     //bullet 
     public GameObject bullet;
 
+    public AudioSource shootinSound;
+
+    public AudioSource slowshootinSound;
+
+    public SlowMotion SlowMo;
     //bullet force
     public float shootForce, upwardForce;
 
@@ -42,6 +49,11 @@ public class ProjectileGunTutorial : MonoBehaviour
 
     //bug fixing :D
     public bool allowInvoke = true;
+
+    private void Start()
+    {
+        shootinSound = GetComponent<AudioSource>();
+    }
 
     private void Awake()
     {
@@ -113,7 +125,16 @@ public class ProjectileGunTutorial : MonoBehaviour
         //Add forces to bullet
         currentBullet.GetComponent<Rigidbody>().AddForce(directionWithSpread.normalized * shootForce, ForceMode.Impulse);
         currentBullet.GetComponent<Rigidbody>().AddForce(fpsCam.transform.up * upwardForce, ForceMode.Impulse);
-         
+        if (SlowMo.currentAmount > 0)
+        {
+            slowshootinSound.Play();
+        } 
+        else
+
+        {
+            shootinSound.Play();
+        }
+        
         muzzleFlash.Play();
         //Instantiate muzzle flash, if you have one
        // if (muzzleFlash != null)
