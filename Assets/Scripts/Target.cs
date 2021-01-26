@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Target : MonoBehaviour { public float health = 50f;
+public class Target : MonoBehaviour
+{
+    public float health = 50f;
+    public GameObject iskelet;
 
     public void TakeDamage(float amount)
     {
@@ -15,6 +18,7 @@ public class Target : MonoBehaviour { public float health = 50f;
         void Die()
         {
             Destroy(gameObject);
+            iskelet.SetActive(true);
         }
     }
 }
