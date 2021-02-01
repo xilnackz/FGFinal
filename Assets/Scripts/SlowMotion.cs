@@ -22,7 +22,7 @@ public class SlowMotion : MonoBehaviour {
 // Update is called once per frame
     void FixedUpdate () {
 
-        if(Input.GetKeyDown ("z"))
+        if(Input.GetKeyDown (KeyCode.Z))
         {
             
 
