@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.Rendering.PostProcessing;
 
 public class SlowMotion : MonoBehaviour {
+    
 
    public float currentAmount = 0f;
    public float maxAmount = 10f;
@@ -11,6 +13,8 @@ public class SlowMotion : MonoBehaviour {
     public ProjectileGunTutorial pgt;
 
     public AudioSource slomoSound;
+
+    public PostProcessVolume PPVolume;
     
 // Use this for initialization
     void Start ()
@@ -35,6 +39,7 @@ public class SlowMotion : MonoBehaviour {
                 pgt.timeBetweenShooting = 0.05f;
                 Time.timeScale = 0.2f;
                 slomoSound.Play();
+                PPVolume.enabled = true;
             }
             else
             {
@@ -54,7 +59,8 @@ public class SlowMotion : MonoBehaviour {
             pMovement.walkSpeed = 4;
             pMovement.sprintSpeed = 8;
             pgt.timeBetweenShooting = 0.1f;
-           
+            PPVolume.enabled = false;
+
         }
 
         if(Time.timeScale == 0.2f){
