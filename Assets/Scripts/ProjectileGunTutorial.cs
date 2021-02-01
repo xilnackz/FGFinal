@@ -65,7 +65,12 @@ public class ProjectileGunTutorial : MonoBehaviour
 
     private void Update()
     {
-        MyInput();
+        if (!PauseMenu.isPaused)
+        {
+            MyInput();
+        }
+        
+        
 
         //Set ammo display, if it exists :D
         if (ammunitionDisplay != null)
