@@ -5910,9 +5910,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f0b48700a57abc3449bcfc3a0684697c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c6d3b37e4346df34c9f040b29374d0a2, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.315
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -10893,9 +10893,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b63d6d77dc64e7a4f866f860e1005c17, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2bfa4affb512ca04ba2552c2c83c212e, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.554
+  m_Volume: 0.357
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -12650,9 +12650,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8f2ab3dbb53859b4fa994becde69a9c2, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5eb8c4162e497b641a741236c73d7d37, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.938
+  m_Volume: 0.8
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -12749,7 +12749,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentAmount: 0
-  maxAmount: 1.45
+  maxAmount: 1.5
   pMovement: {fileID: 1491496672}
   pgt: {fileID: 491682811}
   slomoSound: {fileID: 839064127}
@@ -23894,7 +23894,7 @@ GameObject:
   - component: {fileID: 1574972019}
   - component: {fileID: 1574972018}
   m_Layer: 0
-  m_Name: BackGrounMusic
+  m_Name: BackGroundMusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23912,7 +23912,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 789fd6d268b3d0848af38e396a77f6cc, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.212
+  m_Volume: 0.184
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -28618,6 +28618,11 @@ PrefabInstance:
       propertyPath: slowshootinSound
       value: 
       objectReference: {fileID: 770168234}
+    - target: {fileID: 7472415056866138912, guid: 8874d33e66e162541961be1ffc4ca28b,
+        type: 3}
+      propertyPath: timeBetweenShooting
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 7472415056866138913, guid: 8874d33e66e162541961be1ffc4ca28b,
         type: 3}
       propertyPath: m_Name
