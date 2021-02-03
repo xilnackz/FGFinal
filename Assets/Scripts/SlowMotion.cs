@@ -6,7 +6,7 @@ public class SlowMotion : MonoBehaviour {
     
 
    public float currentAmount = 0f;
-   public float maxAmount = 10f;
+   public float maxAmount = 1.5f;
 
     public FirstPersonAIO pMovement;
 
