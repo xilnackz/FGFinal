@@ -6,7 +6,7 @@ public class SlowMotion : MonoBehaviour {
     
 
    public float currentAmount = 0f;
-   public float maxAmount = 1.5f;
+   public float maxAmount = 7.8f;
 
     public FirstPersonAIO pMovement;
 
@@ -24,7 +24,7 @@ public class SlowMotion : MonoBehaviour {
     
 
 // Update is called once per frame
-    void FixedUpdate () {
+    void Update () {
 
         if(Input.GetKeyDown (KeyCode.F))
         {
@@ -33,23 +33,22 @@ public class SlowMotion : MonoBehaviour {
             
             if (Time.timeScale >= 1.0f)
             {
-                
-                pMovement.walkSpeed *= 2;
-                pMovement.sprintSpeed *= 2;
-                pgt.timeBetweenShooting = 0.05f;
                 Time.timeScale = 0.2f;
+                pMovement.walkSpeed =8;
+                pMovement.sprintSpeed =16;
+                pgt.timeBetweenShooting = 0.05f;
                 slomoSound.Play();
                 PPVolume.enabled = true;
             }
             else
             {
                 
-                pMovement.walkSpeed /= 2;
-                pMovement.sprintSpeed /= 2;
+                pMovement.walkSpeed = 4;
+                pMovement.sprintSpeed = 8;
                 pgt.timeBetweenShooting = 0.1f;
                 Time.timeScale = 1.0f;
                 Time.fixedDeltaTime = 0.02f * Time.timeScale;
-                
+                PPVolume.enabled = true;
                 
             }
         }
@@ -65,7 +64,7 @@ public class SlowMotion : MonoBehaviour {
 
         if(Time.timeScale == 0.2f){
 
-            currentAmount += Time.deltaTime;
+            currentAmount += Time.unscaledDeltaTime;
         }
 
         if(currentAmount >= maxAmount)
