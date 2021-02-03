@@ -26,12 +26,12 @@ public class SlowMotion : MonoBehaviour {
 // Update is called once per frame
     void FixedUpdate () {
 
-        if(Input.GetKeyDown (KeyCode.Z))
+        if(Input.GetKeyDown (KeyCode.F))
         {
             
 
             
-            if (Time.timeScale == 1.0f)
+            if (Time.timeScale >= 1.0f)
             {
                 
                 pMovement.walkSpeed *= 2;
@@ -53,7 +53,7 @@ public class SlowMotion : MonoBehaviour {
                 
             }
         }
-        if (Time.timeScale == 1.0f)
+        if (Time.timeScale >= 1.0f)
         {
                 
             pMovement.walkSpeed = 4;
