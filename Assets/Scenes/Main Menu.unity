@@ -1977,8 +1977,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Bhold: {fileID: 2122874141}
   BClick: {fileID: 350325259}
-  clickFx: {fileID: 8300000, guid: f0b48700a57abc3449bcfc3a0684697c, type: 3}
-  hoverFx: {fileID: 8300000, guid: f0b48700a57abc3449bcfc3a0684697c, type: 3}
+  clickFx: {fileID: 8300000, guid: f65668996680a4b56a4f532cd260e037, type: 3}
+  hoverFx: {fileID: 8300000, guid: 8e3af82deb48243c682a84a0ae603aa7, type: 3}
 --- !u!1 &1505257929
 GameObject:
   m_ObjectHideFlags: 0
@@ -2045,7 +2045,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_fontColor: {r: 0.5803922, g: 0.5882353, b: 0.5803922, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
